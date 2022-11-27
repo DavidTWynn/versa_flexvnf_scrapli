@@ -1,0 +1,6 @@
+{ "lab_device": { 
+    "host": "127.0.0.1",
+    "auth_username": "admin",
+    "auth_password": "versa123"
+    }
+}

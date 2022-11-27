@@ -1,0 +1,4 @@
+black==22.10.0
+flake8==6.0.0
+scrapli==2022.7.30.post1
+ssh2-python==1.0.0
